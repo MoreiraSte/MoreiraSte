@@ -5,7 +5,10 @@
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthe_dreams/)
 
+<div style="display: flex">
+  <img src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="20vh" heigth="20vh">
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
+</div>
 
 <div style= "display: inline-block"><br/>
     <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">
