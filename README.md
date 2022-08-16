@@ -6,7 +6,7 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthe_dreams/)
 
 <div style="display: flex">
-  <img src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="20vh" heigth="20vh">
+ 
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
 </div>
 
