@@ -1,5 +1,5 @@
 ### Hey sweet ! I am Stephany Moreira ✨
-### Welcome to my git Hib! 🤩
+### Welcome to my GitHub! 🤩
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-moreira-14a7251ba/)
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
