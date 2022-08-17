@@ -11,6 +11,8 @@
  
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraSte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style= "display: inline-block"><br/>
     <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">
