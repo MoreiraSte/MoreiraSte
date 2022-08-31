@@ -5,11 +5,13 @@
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthe_dreams/)
 
-<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="300">
+<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="400">
 
 <div style="display: flex">
  
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraSte&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
