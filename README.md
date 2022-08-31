@@ -7,7 +7,7 @@
 
 <img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="320">
 
-<div style="display: flex">
+<div style="display:block">
  
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
 
