@@ -20,17 +20,24 @@
     <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">
 </div>
 
-### Technologies I use
+### Languages and Technologies I use
 
-<div style="display: inline-block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="pyhton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-     <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">    
-      <img align="center" alt="script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">   
+<div style="display: inline-block, justify-content:space-between"><br/>
+     <img alt="java" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="50">
+     <img alt="python" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="50">
+     <img alt="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50">
+     <img alt="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50">
+     <img alt="c#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50">
+     <img alt="c++" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50">
+     <img alt="php" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="50">
+     <img alt="script" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="50">
+</div> <br/>
+
+<div style="display: inline-block, justify-content:space-between"><br/>
+     <img alt="react" src="https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" width="50">
+     <img alt="django" src="https://cdn.iconscout.com/icon/free/png-256/django-3629322-3031821.png" width="50">
+     <img alt="vue" src="https://cdn-icons-png.flaticon.com/512/1183/1183622.png" width="50">
+    
 </div> <br/>
 
 <br/>
