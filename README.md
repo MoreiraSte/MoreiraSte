@@ -1,11 +1,29 @@
-### Hey sweet ! I am Stephany Moreira ✨
-### Welcome to my GitHub! 🤩
+### Hey sweet !✨
+<div style="display:flex">
+
+```javascript
+const data = {
+  name: "Stephany Moreira Casa Grande",
+  pronouns: ["She", "Her"],
+  game: "Mortal Kombat",
+  tech: {
+    programming: ['JS', 'HTML'],
+    frontend: ['React', 'Vue','Sass'],
+    backend: ['Django','PHP']
+  },
+  language: {
+    portuguese: true,
+    english: true,
+  }
+}
+```
+<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="320">
+
+</div>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephany-moreira-14a7251ba/)
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sthe_dreams/)
-
-<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="320">
 
 <div style="display:block">
  
