@@ -1,7 +1,9 @@
 ### Hey sweet !✨
-<div style="display:flex">
+<div >
+ <img align="right" alt="scorpion" width="500" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif">
+</div>
 
-<div>
+
 
 ```javascript
 const data = {
@@ -19,14 +21,6 @@ const data = {
   }
 }
 ```
-
-</div>
-<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="320">
-
-</div>
-
-
-
 
 <div style="display:block">
  
