@@ -1,5 +1,7 @@
 ### Hey sweet !✨
-<div >
+<div style="display:flex">
+
+<div>
 
 ```javascript
 const data = {
@@ -17,6 +19,8 @@ const data = {
   }
 }
 ```
+
+</div>
 <img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="400">
 
 </div>
