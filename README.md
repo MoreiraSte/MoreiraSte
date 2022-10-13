@@ -1,4 +1,4 @@
-### Hey sweet !✨
+<h1 align="center"> Hey sweet !✨ </h1>
 <div >
  <img align="right" alt="scorpion" width="400" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif">
 </div>
@@ -22,7 +22,7 @@ const data = {
 }
 ```
 
-<div style="display:block">
+<div align="center">
  
 ![Stephany GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraSte&show_icons=true&theme=dracula)
 
@@ -31,13 +31,13 @@ const data = {
 
 
 
-<div style= "display: inline-block"><br/>
+<div align="center"><br/>
     <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">
 </div>
 
-### Languages and Technologies I use
+<h2 align='center'>Languages and Technologies I use </h2>
 
-<div style="display: inline-block, justify-content:space-between"><br/>
+<div style="display: inline-block, justify-content:space-between"; align="center"><br/>
      <img alt="java" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50">
      <img alt="python" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="50">
      <img alt="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50">
@@ -48,7 +48,7 @@ const data = {
      <img alt="script" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="50">
 </div> <br/>
 
-<div style="display: inline-block, justify-content:space-between"><br/>
+<div style="display: inline-block, justify-content:space-between"; align="center"><br/>
      <img alt="react" src="https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" width="50">
      <img alt="django" src="https://cdn.iconscout.com/icon/free/png-256/django-3629322-3031821.png" width="50">
      <img alt="vue" src="https://cdn-icons-png.flaticon.com/512/1183/1183622.png" width="50">
