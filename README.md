@@ -17,7 +17,7 @@ const data = {
   }
 }
 ```
-<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="500">
+<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="400">
 
 </div>
 
