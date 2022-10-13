@@ -21,7 +21,7 @@ const data = {
 ```
 
 </div>
-<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="400">
+<img align="right" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif" width="320">
 
 </div>
 
