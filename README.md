@@ -1,7 +1,7 @@
 <h1 align="center"> Hey sweet !✨ </h1>
 <div >
 <!--<img align="right" alt="scorpion" width="450" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif">-->
-<img align="right" alt="gojo" width="470" src="https://giffiles.alphacoders.com/211/211796.gif">
+<img align="right" alt="gojo" width="500" src="https://c.tenor.com/CFYHEkphVvkAAAAC/gojou-satoru-gojou.gif">
 </div>
 
 
