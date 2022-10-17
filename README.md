@@ -1,7 +1,8 @@
 <h1 align="center"> Hey sweet !✨ </h1>
 <div >
 <!--<img align="right" alt="scorpion" width="450" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif">-->
-<img align="right" alt="gojo" width="480" src="https://c.tenor.com/CFYHEkphVvkAAAAC/gojou-satoru-gojou.gif">
+<!--<img align="right" alt="gojo" width="480" src="https://c.tenor.com/CFYHEkphVvkAAAAC/gojou-satoru-gojou.gif">-->
+<img align="right" alt="brothers" width="480" src="https://media.tenor.com/trBCXEOWUfQAAAAC/jujutsu-kaisen-itadori-yuji.gif">
 </div>
 
 
