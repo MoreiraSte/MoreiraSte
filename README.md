@@ -36,7 +36,8 @@ const data = {
 
 <div align="center"><br/>
    <!-- <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">-->
-  <img align="center" alt="mkxF" src="https://media.tenor.com/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">
+  <!--<img align="center" alt="mkxF" src="https://media.tenor.com/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">-->
+  <img align="center" alt="umai" src="https://i.pinimg.com/originals/e7/1d/60/e71d60a024fcf912491ba5564a45419b.gif">
 </div>
 
 <h2 align='center'>Languages and Technologies I use </h2>
