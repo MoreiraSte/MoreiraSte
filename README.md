@@ -15,9 +15,9 @@
 const data = {
   name: "Stephany Moreira Casa Grande",
   pronouns: ["She", "Her"],
-  game: "Mortal Kombat",
+  games: "Mortal Kombat","The last of us",
+  "Minecraft","Rocket Legue","CSGO"
   tech: {
-    programming: ['JS', 'HTML'],
     frontend: ['React', 'Vue','Sass'],
     backend: ['Django','PHP']
   },
