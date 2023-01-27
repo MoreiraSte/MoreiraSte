@@ -58,11 +58,15 @@ const data = {
 </div> <br/>
 
 <div style="display: inline-block, justify-content:space-between"; align="center"><br/>
-     <img alt="react" src="https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg" width="50">
+     <img alt="react" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" width="50">
      <img alt="django" src="https://cdn.iconscout.com/icon/free/png-256/django-3629322-3031821.png" width="50">
      <img alt="vue" src="https://cdn-icons-png.flaticon.com/512/1183/1183622.png" width="50">
-     <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50">
+     <img alt="sql" src="https://icon-library.com/images/mysql-icon/mysql-icon-9.jpg" width="50">
      <img alt="unity" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="50">
+     <img alt="native" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de0e0f0a30134fd8b84c2d8f3031977f~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.image" width="50">
+     <img alt="node" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-17.jpg" width="100">
+     <img alt="mongodb" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" width="70">
+
     
 </div> <br/>
 
