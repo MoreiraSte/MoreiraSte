@@ -24,6 +24,7 @@ const data = {
   language: {
     portuguese: true,
     english: true,
+    spanish: true,
   }
 }
 ```
