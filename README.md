@@ -2,14 +2,6 @@
 <img align="center" alt="idr"  src="https://64.media.tumblr.com/29fd29b185b572578b32de46e5bbfeed/tumblr_p5enpxqCzx1x2i7xeo8_1280.png">
 
 <h1 align="center"> Hey !✨ </h1>
-<div >
-<img align="right" alt="scorpion" width="450" src="https://c.tenor.com/mCnYpxDDsD0AAAAC/get-over-here.gif">
-<!--<img align="right" alt="gojo" width="480" src="https://c.tenor.com/CFYHEkphVvkAAAAC/gojou-satoru-gojou.gif">-->
-<!--<img align="right" alt="bestos" width="480" src="https://media.tenor.com/trBCXEOWUfQAAAAC/jujutsu-kaisen-itadori-yuji.gif">-->
-<!--<img align="right" alt="akiii" width="480" src="https://media.tenor.com/8nh2k8UDoRIAAAAC/chainsaw-man-aki.gif">-->
-</div>
-
-
 
 ```javascript
 const data = {
@@ -39,14 +31,8 @@ const data = {
 
 
 <div align="center"><br/>
-   <!-- <img align="center" alt="dragon" src="https://giffiles.alphacoders.com/247/24723.gif">-->
-  <!--<img align="center" alt="mkxF" src="https://media.tenor.com/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif">-->
-  <!--<img align="center" alt="umai" src="https://i.pinimg.com/originals/e7/1d/60/e71d60a024fcf912491ba5564a45419b.gif">-->
-  <!--<img align="center" alt="lights" src="https://66.media.tumblr.com/055fd662687b5c56e7b7e8d0147e678d/2464d5f823904085-3b/s500x750/8457ba61b1e6cdbcc4ca8e0583ec2d8944fd39f3.gif">-->
-  <!--<img align='center' alt='gatobus' src="https://custom-doodle.com/wp-content/uploads/doodle/totoro-catbus-running/totoro-catbus-running-doodle.gif">-->
-  <!--<img align='center' alt='gatobus' src="https://25.media.tumblr.com/a3e236c93c6c76f09a97bfa2f039dbbd/tumblr_mronq43r9u1sf31zro1_500.gif">-->
-  <img align='center' alt='gojo' src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUGHHbqonupH9xaXTMRyDWKxrajsRu2ql6_Ox6PO9HX7oQ4SFXNgbPfM_x9382lv1yg">
-
+  <!--<img align='center' alt='gojo' src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUGHHbqonupH9xaXTMRyDWKxrajsRu2ql6_Ox6PO9HX7oQ4SFXNgbPfM_x9382lv1yg">-->
+  <img align='center' alt='aizawa' src="https://pa1.aminoapps.com/7774/6c7141a5d3f3bed31ee27aa70792ba141ce0fd73r1-480-266_hq.gif">
 </div>
 
 <h2 align='center'>Languages and Technologies I use </h2>
