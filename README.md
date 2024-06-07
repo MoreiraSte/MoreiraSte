@@ -63,6 +63,7 @@ const data = {
 
 <div style="display: inline-block, justify-content:space-between"; align="center"><br/>
      <img alt="qtdesign" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/800px-Python_and_Qt.svg.png" width="50">
+     <img alt="outsystems" src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" width="60">
     
 
     
